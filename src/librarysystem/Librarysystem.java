@@ -24,7 +24,7 @@ public class Librarysystem {
             System.out.println("3 - Edit a book");
             System.out.println("4 - Delete a book");
             System.out.println("5 - Add a new borrower");
-            System.out.println("6 - Edit borrower list");
+            System.out.println("6 - Edit borrower's list");
             System.out.println("7 - Delete a borrower");
 
             System.out.println("0 - Exit");
